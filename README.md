@@ -3,10 +3,12 @@
 Here I analysis the raw HR data and create a report based on this
 
 # Snap_Shot
+Data Visualisation Snap After Analysis
+![snap1](https://github.com/delight-byte/HR_Report/assets/147815073/e1e952f8-51c1-4378-a54c-de5ba5bb4d93)
 
-![snap](https://github.com/delight-byte/HR_Report/assets/147815073/f4270c79-fae8-4116-9f7d-d263e5b347e3)
+Raw Data Snap Before Analysis from Excel
+![snap2](https://github.com/delight-byte/HR_Report/assets/147815073/733576f1-0c04-4dcf-bee8-e68140d00193)
 
-![snap1](https://github.com/delight-byte/HR_Report/assets/147815073/23fffc95-13a5-49ec-8578-106523f6e9c9)
 
 # Data_and_Tools
 
